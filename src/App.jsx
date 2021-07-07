@@ -1,10 +1,9 @@
-import Header from './components/Header'
-import ImgSwap from './components/ImgSwap'
+import Cards from "./components/Cards";
+
 export const App = () => {
   return (
     <div>
-      <Header/>
-      
+      <Cards/>
     </div>
   )
 }
