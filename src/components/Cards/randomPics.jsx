@@ -5,8 +5,8 @@ export const data =[
         'url':'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a8bdafb-6f9c-43bf-8b08-4fc3bb7fbeed/del3wql-4d20c4ec-c25b-40b3-8a36-94a090acbd30.png/v1/fill/w_1024,h_815,q_80,strp/kisses____comm_by_raspberrystudios_del3wql-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODE1IiwicGF0aCI6IlwvZlwvMmE4YmRhZmItNmY5Yy00M2JmLThiMDgtNGZjM2JiN2ZiZWVkXC9kZWwzd3FsLTRkMjBjNGVjLWMyNWItNDBiMy04YTM2LTk0YTA5MGFjYmQzMC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DPNJV0JcBtTgRHDuvI7QoLALwITEcMqZeSnNFP3ljGo'
     },{
         'id':1,
-        'name':'mag and spot',
-        'url':'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3456178-ab60-492f-bcdf-00f062f9ade3/del9via-27ad0b0b-696a-48dd-86db-c00b5542e12a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QzNDU2MTc4LWFiNjAtNDkyZi1iY2RmLTAwZjA2MmY5YWRlM1wvZGVsOXZpYS0yN2FkMGIwYi02OTZhLTQ4ZGQtODZkYi1jMDBiNTU0MmUxMmEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DLmEkdjyDPRNFJxH64UPI7_bnxBj_26_hRCCKIaFlFQ'
+        'name':'lacy and duchess',
+        'url':'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f5e6d14d-bd94-43c9-ae2a-5cca8a85c347/demx4yl-0580c3be-9dea-444f-9bb0-2e5abaaff4ea.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1ZTZkMTRkLWJkOTQtNDNjOS1hZTJhLTVjY2E4YTg1YzM0N1wvZGVteDR5bC0wNTgwYzNiZS05ZGVhLTQ0NGYtOWJiMC0yZTVhYmFhZmY0ZWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2nAUJAcGjQ1LPWt5Id2B-5B1sWkdByLXTL_RHFSKfSE'
 
     },{
         'id':2,

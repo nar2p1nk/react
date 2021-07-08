@@ -1,15 +1,14 @@
-.tits{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.nokos{
+    padding-bottom: 50px;
 }
 .cardI{
     position: relative;
     height: auto;
-    width: 600px;
-    height: 81vh;
-    background-size:cover ;
+    width: 1000px;
+    height: 85vh;
+    background-size:cover;
     background-position: center;
+    /* background-repeat:; */
     border-radius: 20px;
     box-shadow:0px 18px 53px 0px rgba(0,0,0,0.3);
 }
@@ -21,6 +20,7 @@
 .tinderCard{
     position: absolute;
     margin: auto;
+    
 }
 .cardI h3{
     position: absolute;

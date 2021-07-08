@@ -5,7 +5,7 @@ import './Cards.css'
 const Cards = () => {
     const [People, setPeople] = useState(data)
     return (
-        <div classname='tits'>
+        <div classname='nokos'>
             <div className='card-container'>
             
             {People.map((Pic)=>{
@@ -15,7 +15,7 @@ const Cards = () => {
             <TinderCard
             className='tinderCard'
             onCardLeftScreen={()=>{'card has left the screen'}}
-            preventSwipe={['right','left',]}
+            preventSwipe={['up','down',]}
             >
               <div
                 style={{backgroundImage:`url(${url})`}}

@@ -1,0 +1,15 @@
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1120px 1fr;
+    grid-row: 1/3;
+}
+
+.decide{
+    margin-top: 240%;
+}
+#decide-left{
+    padding-left: 20px;
+}
+#decide-right{
+    padding-left: 60px;
+}
