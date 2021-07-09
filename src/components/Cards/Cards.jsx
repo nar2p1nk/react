@@ -17,12 +17,10 @@ const Cards = () => {
             onCardLeftScreen={()=>{'card has left the screen'}}
             preventSwipe={['up','down',]}
             >
-              <div
-                style={{backgroundImage:`url(${url})`}}
+              <img
+                src={url}
                 className='cardI'
-              >
-                  <h3>{name}</h3>
-              </div>
+              />
             </TinderCard>
                  )
                 })}
